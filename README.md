@@ -1,5 +1,4 @@
 # Artefact_project
-Rice disease classification from zindi competition
+Rice disease classification from zindi competition : https://zindi.africa/competitions/microsoft-rice-disease-classification-challenge
 
 
-It will be completed soon :)
